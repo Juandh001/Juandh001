@@ -1,4 +1,4 @@
-# 👨‍💻 **Hi! I'm Juan Diego** 
+# **Hi! I'm Juan Diego** 👨‍💻
 
 ![Full Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-%F0%9F%92%BB-blue) 
 ![Backend: Python, Java, FastAPI, Django](https://img.shields.io/badge/Backend-Python%2C%20Java%2C%20FastAPI%2C%20Django-%237159c1)
@@ -14,7 +14,7 @@ I’m passionate about solving complex problems with code and designing user int
 
 - 🌍 **Location**: Colombia 🇨🇴 
 - 📧 **Email**: [juandiegohernandez520@gmail.com](mailto:juandiegohernandez520@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/juan-diego-hernandez-guzman](linkedin.com/in/juan-diego-hernandez-guzman-42650a271/)
+- 💼 **LinkedIn**: [linkedin.com/in/juan-diego-hernandez-guzman-42650a271/](linkedin.com/in/juan-diego-hernandez-guzman-42650a271/)
 
 ---
 
@@ -31,7 +31,7 @@ I’m passionate about solving complex problems with code and designing user int
 
 ## 📚 **Highlighted Projects**
 
-### 🚀 [Project 1: Bocados Callejeros](https://github.com/your-username/project1)
+### 🚀 [Project 1: Bocados Callejeros](https://github.com/Juandh001/BocadosCallejeros)
 
 ...
 
@@ -40,7 +40,7 @@ I’m passionate about solving complex problems with code and designing user int
 I'm always open to collaborate on exciting projects or chat about technology. Feel free to reach out!
 
 - **Email**: [juandiegohernandez520@gmail.com](mailto:juandiegohernandez520@gmail.com)
-- **LinkedIn**: [linkedin.com/in/juan-diego-hernandez-guzman](linkedin.com/in/juan-diego-hernandez-guzman-42650a271/)
+- **LinkedIn**: [linkedin.com/in/juan-diego-hernandez-guzman-42650a271/](linkedin.com/in/juan-diego-hernandez-guzman-42650a271/)
 
 ---
 

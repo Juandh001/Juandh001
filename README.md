@@ -14,7 +14,7 @@ I’m passionate about solving complex problems with code and designing user int
 
 - 🌍 **Location**: Colombia 🇨🇴 
 - 📧 **Email**: [juandiegohernandez520@gmail.com](mailto:juandiegohernandez520@gmail.com)
-- 💼 **LinkedIn**: [LinkedIn Profile](linkedin.com/in/juandiegohernandezg/)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/juandiegohernandezg/)
 
 ---
 
@@ -32,14 +32,14 @@ I’m passionate about solving complex problems with code and designing user int
 
 ### 🚀 [Project 1: Bocados Callejeros](https://github.com/Juandh001/BocadosCallejeros)
 
-Welcome to [Bocados Callejeros](BocadosCallejeros.pythonanywhere.com) Where fast food becomes a gastronomic adventure with just one [click](BocadosCallejeros.pythonanywhere.com). With our specialized ecommerce software, we offer you a fast and delicious culinary experience, right from the comfort of your home. Our platform is designed so you can enjoy fresh ingredients and authentic flavors with just a few taps on your device. Make your next fast meal extraordinary with [Bocados Callejeros](BocadosCallejeros.pythonanywhere.com).
+Welcome to [Bocados Callejeros](https://BocadosCallejeros.pythonanywhere.com) Where fast food becomes a gastronomic adventure with just one [click](https://BocadosCallejeros.pythonanywhere.com). With our specialized ecommerce software, we offer you a fast and delicious culinary experience, right from the comfort of your home. Our platform is designed so you can enjoy fresh ingredients and authentic flavors with just a few taps on your device. Make your next fast meal extraordinary with [Bocados Callejeros](https://BocadosCallejeros.pythonanywhere.com).
 
 ## 🤝 **Let's Connect**
 
 I'm always open to collaborate on exciting projects or chat about technology. Feel free to reach out!
 
 - **Email**: [juandiegohernandez520@gmail.com](mailto:juandiegohernandez520@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](linkedin.com/in/juandiegohernandezg/t)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/juandiegohernandezg/t)
 
 ---
 

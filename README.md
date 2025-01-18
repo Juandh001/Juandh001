@@ -1,6 +1,5 @@
 # **Hi! I'm Juan Diego** 👨‍💻
 
-![Backend developer](https://img.shields.io/badge/Full--Stack%20Developer-%F0%9F%92%BB-blue) 
 ![Backend: Python, Java, FastAPI, Django, PHP](https://img.shields.io/badge/Backend-Python%2C%20Java%2C%20FastAPI%2C%20Django%2C%20PHP-%237159c1)
 ![Frontend: HTML, CSS, JavaScript, Bootstrap](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JavaScript-%238dd6f9)
 
